@@ -3,10 +3,15 @@
 </div>
 
 ### Sobre mi
-Estudiante de Ingenieria de Sistemas en la UTP (Piura, Peru).
+Estudiante de Ingenieria de Sistemas en la UTP (Piura, Peru). Enfoque en desarrollo web, optimizacion de sistemas y arquitectura de software.
+
+* Interes en personalizacion de entornos de desarrollo y configuracion de sistemas.
+* Enfoque en proyectos academicos y desarrollo de software modular.
+
 ---
 
 ### Tecnologias y Herramientas
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,mysql,mongodb,git,vscode" />
 </div>
