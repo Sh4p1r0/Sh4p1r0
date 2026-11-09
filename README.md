@@ -3,7 +3,7 @@
 </div>
 ### Sobre mi
 Estudiante de Ingenieria de Sistemas en la UTP (Piura, Peru).
-
+---
 ### Tecnologias y Herramientas
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,mysql,mongodb,git,vscode" />
