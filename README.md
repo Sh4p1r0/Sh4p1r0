@@ -3,7 +3,7 @@
 </div>
 
 ### Sobre mi
-Estudiante de Ingenieria de Sistemas en la UTP (Piura, Peru). Enfoque en desarrollo web, optimizacion de sistemas y arquitectura de software.
+Estudiante de Ingenieria de Sistemas en la UTP (Piura, Peru). 
 
 
 
